@@ -59,6 +59,9 @@
       }
     }
   },
+  "mixins": {
+    "TimeStamp": true
+  },
   "validations": [],
   "relations": {},
   "acls": [
